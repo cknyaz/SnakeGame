@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;  */
+}
+canvas {
+    border: 2px solid black;
+  }
+
+#board {
+    position: center;
+    /* top: 50%;
+    left: 50%; */
+    /* transform: translate(-50%, -50%);  */
+  }
+
+#score {
+    text-align: center;
+    font-size: 80px;
+  }
